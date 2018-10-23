@@ -1,0 +1,1 @@
+include ':app', ':interfaces', ':platform1', ':platform2', ':base', ':platform_oth'
